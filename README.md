@@ -3,6 +3,10 @@
 This repository contains the design, implementation, and analysis of a **low-power, high-speed 2×2 Vedic Multiplier** based on the **Urdhva Tiryagbhyam** sutra of Vedic Mathematics. The multiplier internally uses an optimized **14-Transistor (14T) Full Adder**, designed to reduce transistor count, power consumption, and propagation delay, making it suitable for modern VLSI applications.
 
 ---
+### 📦 Block Diagram of 2×2 Vedic Multiplier
+
+![Block Diagram](<img width="660" height="403" alt="image" src="https://github.com/user-attachments/assets/e016ea6a-5633-4bcb-8d36-75759a78d12c" />
+)
 
 ## **📌 Project Overview**
 
